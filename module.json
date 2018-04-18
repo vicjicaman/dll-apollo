@@ -1,0 +1,11 @@
+{
+  "fullname": "@nebulario/dll-apollo",
+  "version": "",
+  "repository": {
+    "url": "github.com:vicjicaman/dll-apollo.git",
+    "upstream": {}
+  },
+  "labels": {
+    "type":"npm-dll"
+  }
+}
