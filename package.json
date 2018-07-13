@@ -1,6 +1,6 @@
 {
   "name": "@nebulario/dll-apollo",
-  "version": "1.0.21-local-ui-graph",
+  "version": "1.0.21-master",
   "mountpoint": "apollo",
   "description": "Base for modules in node",
   "repository": "github.com:vicjicaman/dll-apollo.git",
