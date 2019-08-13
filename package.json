@@ -1,6 +1,6 @@
 {
   "name": "@nebulario/dll-apollo",
-  "version": "1.70.0-beta-public-dlls-prod",
+  "version": "1.70.1-master",
   "mountpoint": "apollo",
   "description": "Base for modules in node",
   "repository": "github.com:vicjicaman/dll-apollo.git",
